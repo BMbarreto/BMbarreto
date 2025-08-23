@@ -2,11 +2,11 @@
 
 I'm on a journey to transition into a Data Analyst and Data Engineer career. Currently, I’m deepening my skills through courses and hands-on projects that help me build a strong foundation in data, analytics, and engineering tools.
 
-🚀 **My Mission:**
+🚀 **My Mission**:
 
 To turn raw data into meaningful insights and scalable pipelines that drive smarter decisions and impactful results.
 
-📚** What I'm Learning**:
+📚**What I'm Learning**:
 
 * SQL & Relational Databases
 
