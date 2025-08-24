@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Aug 23, 2025, 07_14_44 PM" src="https://github.com/user-attachments/assets/3ffd53dc-6f35-4df8-8815-7c3d9daf817b" />
+
 ## Hi there! I'm Bermarie 👋
 
 I'm on a journey to transition into a Data Analyst and Data Engineer career. Currently, I’m deepening my skills through courses and hands-on projects that help me build a strong foundation in data, analytics, and engineering tools.
