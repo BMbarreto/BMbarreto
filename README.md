@@ -4,7 +4,7 @@ I'm on a journey to transition into a Data Analyst and Data Engineer career. Cur
 
 🚀 **My Mission**:
 
-To turn raw data into meaningful insights and scalable pipelines that drive smarter decisions and impactful results.
+To transform raw data into clear, engaging, and insightful visual stories for everyone.
 
 📚**What I'm Learning**:
 
@@ -20,7 +20,7 @@ To turn raw data into meaningful insights and scalable pipelines that drive smar
   
 📈 **Why Data?**:
 
-I’ve always been fascinated by graphs, trends, and the stories behind the numbers. There's something powerful about taking raw, messy data and turning it into something clear and visually beautiful — a story that anyone can understand, regardless of their technical background.
+I’ve always been fascinated by graphs, trends, and the stories behind the numbers. There's something powerful about taking raw, messy data and turning it into something clear and visually beautiful, a story that anyone can understand, regardless of their technical background.
 
 Just like when I'm solving puzzles or building with LEGO, I enjoy breaking things down into smaller parts, finding patterns, and assembling them into something meaningful. That same sense of curiosity and creativity drives my passion for data analysis and data engineering.
 
