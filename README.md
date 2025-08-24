@@ -1,5 +1,5 @@
 
-<img width="1123" height="1000" alt="ChatGPT Image Aug 23, 2025, 07_21_38 PM" src="https://github.com/user-attachments/assets/cfdfea4d-f671-4fad-9410-ec65485a4565" />
+<img width="1123" height="900" alt="ChatGPT Image Aug 23, 2025, 07_21_38 PM" src="https://github.com/user-attachments/assets/cfdfea4d-f671-4fad-9410-ec65485a4565" />
 
 ## Hi there! I'm Bermarie 👋
 
