@@ -6,15 +6,17 @@ I'm on a journey to transition into a Data Analyst and Data Engineer career. Cur
 
 To transform raw data into clear, engaging, and insightful visual stories for everyone.
 
-📚**What I'm Learning**:
+📚**What I'm Learning now**:
 
 * SQL & Relational Databases
 
 * Python for Data Analysis
 
-* Data Visualization with tools like Tableau and Power BI
+* Data Visualization with tools: Tableau and Power BI
+  
+📚**What's Next in My Skill-Building Journey?**
 
-* Data Engineering tools like Airflow, dbt, and Spark
+* Data Engineering: Airflow, dbt, and Spark
 
 * Cloud platforms (AWS, GCP – learning in progress)
   
