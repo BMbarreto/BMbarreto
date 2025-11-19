@@ -3,7 +3,7 @@
 
 ## Hi there! I'm Bermarie 👋
 
-I'm on a journey to transition into a Data Analyst and Data Engineer career. Currently, I’m deepening my skills through courses and hands-on projects that help me build a strong foundation in data, analytics, and engineering tools.
+I'm on a journey to transition into a Data Analyst career. Currently, I’m deepening my skills through courses and hands-on projects to build a strong foundation in data and analytics tools.
 
 🚀 **My Mission**:
 
@@ -13,9 +13,9 @@ To transform raw data into clear, engaging, and insightful visual stories for ev
 
 * SQL & Relational Databases
 
-* Python for Data Analysis
+* Excel and Python for Data Analysis
 
-* Data Visualization with tools: Tableau and Power BI
+* Data Visualization with tools: Tableau
   
 📚**What's Next in My Skill-Building Journey?**
 
@@ -27,11 +27,11 @@ To transform raw data into clear, engaging, and insightful visual stories for ev
 
 I’ve always been fascinated by graphs, trends, and the stories behind the numbers. There's something powerful about taking raw, messy data and turning it into something clear and visually beautiful, a story that anyone can understand, regardless of their technical background.
 
-Just like when I'm solving puzzles or building with LEGO, I enjoy breaking things down into smaller parts, finding patterns, and assembling them into something meaningful. That same sense of curiosity and creativity drives my passion for data analysis and data engineering.
+Just like when I'm solving puzzles or building with LEGO, I enjoy breaking things down into smaller parts, finding patterns, and assembling them into something meaningful. That same sense of curiosity and creativity drives my passion for data analysis and data engineering. Solving puzzles is fun, and I also enjoy design creativity.
 
 🛠️ **Projects Coming Soon**:
 
-I’ll be sharing personal projects that highlight my journey through the world of data, from cleaning messy datasets to building dashboards, exploring trends, and developing pipelines. Think of it as my travel journal through data land, one project at a time.
+I’ll be sharing personal projects that highlight my journey through the world of data, from cleaning messy datasets to building dashboards and exploring trends. Think of it as my travel journal through data land, one project at a time.
 <!--
 **BMbarreto/BMbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
