@@ -17,6 +17,8 @@ To transform raw data into clear, engaging, and insightful visual stories for ev
 
 * Data Visualization with tools: Tableau
   
+* Dusting my statistics skills with Khan Academy
+  
 📚**What's Next in My Skill-Building Journey?**
 
 * Data Engineering: Airflow, dbt, and Spark
